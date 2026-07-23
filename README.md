@@ -54,6 +54,7 @@ Please verify important information from trusted sources.
 ---
 
 ## 📸 Demo
+https://ai-chatbot-tamim.streamlit.app/
 <img width="900" height="902" alt="image" src="https://github.com/user-attachments/assets/f9949109-2702-4e3e-ae40-87baffdd4007" />
 
 
