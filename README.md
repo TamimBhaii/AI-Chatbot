@@ -37,78 +37,11 @@ AI-ChatBot/
 ├── requirements.txt
 ├── .gitignore
 ├── README.md
-└── .env (not included)
+└── .venv
 ```
 
 ---
 
-## 📦 Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/TamimBhaii/AI-Chatbot.git
-```
-
-Go to the project directory
-
-```bash
-cd AI-Chatbot
-```
-
-Create a virtual environment
-
-```bash
-python -m venv venv
-```
-
-Activate the virtual environment
-
-### Windows
-
-```bash
-venv\Scripts\activate
-```
-
-### Git Bash
-
-```bash
-source venv/Scripts/activate
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 🔑 Environment Variables
-
-Create a `.env` file in the project root.
-
-```env
-GROQ_API_KEY=your_api_key_here
-```
-
----
-
-## ▶️ Run the Application
-
-```bash
-streamlit run chatbot.py
-```
-
-The application will open in your browser.
-
----
-
-## 💡 Model Used
-
-- OpenAI GPT-OSS-120B (via Groq API)
-
----
 
 ## ⚠️ Disclaimer
 
