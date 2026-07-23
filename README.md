@@ -54,20 +54,7 @@ Please verify important information from trusted sources.
 ---
 
 ## 📸 Demo
+<img width="900" height="902" alt="image" src="https://github.com/user-attachments/assets/f9949109-2702-4e3e-ae40-87baffdd4007" />
 
-_Add screenshots or a live demo link here after deployment._
-
----
-
-## 👨‍💻 Author
-
-**Tamim Islam**
-
-- GitHub: https://github.com/TamimBhaii
-- LinkedIn: *(Add your LinkedIn profile here)*
 
 ---
-
-## ⭐ If you like this project
-
-Give this repository a ⭐ on GitHub.
